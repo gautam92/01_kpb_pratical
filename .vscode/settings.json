@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Dracula Pure",
+  "workbench.iconTheme": "vscode-icons",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.visible": true,
+  "window.zoomLevel": 0,
+  "editor.fontSize": 15,
+  "files.autoSave": "off",
+  "prettier.printWidth": 150,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "tslint.jsEnable": true,
+  "typescript.format.enable": true,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "prettier.requireConfig": true,
+  "tslint.suppressWhileTypeErrorsPresent": true,
+  "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+  "bracket-pair-colorizer-2.showVerticalScopeLine": false
+}

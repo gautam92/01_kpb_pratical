@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "incremental": true,
+    "noUnusedLocals": true, /* Report errors on unused locals. */
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false
+  },
+  "exclude": ["node_modules", "dist"]
+}
